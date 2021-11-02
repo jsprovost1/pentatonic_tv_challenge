@@ -41,5 +41,5 @@ The data set contained some missing values and erronous entries that were talen 
 
 Distribution plots revealed a potential bimodal distribution for the age, which was further explored later on. Indeed, the data suggested that a small group of clients who did not purchase a television drove that peak around 28 years old.
 
-![alt text](http://url/to/img.png)
 ![dist_plot_age](https://user-images.githubusercontent.com/24415049/139962243-dc2a8f8c-df73-4c2e-9e4e-f94be5bfd4a7.png)
+![dist_plot_age_target](https://user-images.githubusercontent.com/24415049/139962427-0e966362-1ded-4fa8-8b70-d0158367b484.png)
