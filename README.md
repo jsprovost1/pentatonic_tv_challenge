@@ -2,8 +2,8 @@
 
 ## Outline
 1.Data Exploration<br/>
-    &nbsp;1.1 The Data<br/>
-    1.2 Data Description & Preprocessing<br/>
+    &nbsp;&nbsp;1.1 The Data<br/>
+    &nbsp;&nbsp;1.2 Data Description & Preprocessing<br/>
 2.0 Some Data Visualization
      2.1 Distribution & Boxplots Plots
      2.2 Analysis For The Different Features
