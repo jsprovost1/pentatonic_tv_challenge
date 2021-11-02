@@ -8,13 +8,19 @@
    &nbsp;&nbsp;&nbsp;&nbsp;1.2 Data Description & Preprocessing
 
 2.0 Some Data Visualization<br/>
+     
      &nbsp;&nbsp;&nbsp;&nbsp;2.1 Distribution & Boxplots Plots<br/>
      
      &nbsp;&nbsp;&nbsp;&nbsp;2.2 Analysis For The Different Features<br/>
+         
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Professions<br/>
+         
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.2 Cities<br/>
+         
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.3 Age Group<br/>
+         
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.4 Home Income<br/>
+         
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.5 Mixed Features<br/>       
 
 3.0 Creating Train/Test Sets<br/>
