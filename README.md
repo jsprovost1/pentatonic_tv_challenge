@@ -51,3 +51,7 @@ We have a highly imbalanced data set with respect to our target feature capturin
 Furthermore, no professions, or cities had an over/under-representation with respect to the target feature as the following figures highlight.
 
 ![professions](https://user-images.githubusercontent.com/24415049/139963143-6e45ad58-e4f1-4e31-aed0-ebe43739ac12.png) ![cities](https://user-images.githubusercontent.com/24415049/139963148-e5e885b5-32a5-4bb7-9bea-a005fafaf6e7.png)
+
+We found a slight trend highlighting a greater percentage of retirees purchasing a new television; however this difference was not statistically confirmed.
+![table_professions](https://user-images.githubusercontent.com/24415049/139963498-b48d3eca-7595-445d-b767-3553496f4b1b.png)
+
