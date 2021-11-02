@@ -13,17 +13,18 @@
      
      &nbsp;&nbsp;&nbsp;&nbsp;2.2 Analysis For The Different Features
          
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Professions<br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.1 Professions<br/>
          
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.2 Cities<br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.2 Cities<br/>
          
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.3 Age Group<br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.3 Age Group<br/>
          
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.4 Home Income<br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.4 Home Income<br/>
          
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.5 Mixed Features<br/>       
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2.5 Mixed Features<br/>       
 
 3.0 Creating Train/Test Sets<br/>
+
 4.0 Extracting Feature Profiles From PCA Analysis<br/>
 
 
