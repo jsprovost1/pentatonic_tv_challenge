@@ -43,3 +43,8 @@ Distribution plots revealed a potential bimodal distribution for the age, which 
 
 ![dist_plot_age](https://user-images.githubusercontent.com/24415049/139962243-dc2a8f8c-df73-4c2e-9e4e-f94be5bfd4a7.png)
 ![dist_plot_age_target](https://user-images.githubusercontent.com/24415049/139962427-0e966362-1ded-4fa8-8b70-d0158367b484.png)
+
+We have a highly imbalanced data set with respect to our target feature capturing whether a client has purchased a television or not.
+
+![target_feature](https://user-images.githubusercontent.com/24415049/139962785-60c875b3-d796-45a8-8013-c7918e07e131.png)
+
