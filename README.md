@@ -53,5 +53,21 @@ Furthermore, no professions, or cities had an over/under-representation with res
 ![professions](https://user-images.githubusercontent.com/24415049/139963143-6e45ad58-e4f1-4e31-aed0-ebe43739ac12.png) ![cities](https://user-images.githubusercontent.com/24415049/139963148-e5e885b5-32a5-4bb7-9bea-a005fafaf6e7.png)
 
 We found a slight trend highlighting a greater percentage of retirees purchasing a new television; however this difference was not statistically confirmed.
+
 ![table_professions](https://user-images.githubusercontent.com/24415049/139963498-b48d3eca-7595-445d-b767-3553496f4b1b.png)
 
+
+After performing a Principal Component Analysis, the result showed two main components supporting two different groups of clients.
+A first group of clients showed:
+    - High Household Income
+    - High Income
+    - High Transactional Volume
+    - Low Financing Volume
+    - Low Credit Card Volume.
+    
+A second group of clients reported:
+    - High Income
+    - High Financing Volume
+    - Low Household Income
+    - Low Credit Card Volume.
+    
