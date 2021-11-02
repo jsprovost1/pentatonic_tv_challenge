@@ -30,9 +30,11 @@
 
 ## Introduction
 
-Problem: A fictional electronic company called Pentatonic specialized into selling high-end televisions.
+A fictional electronic company called Pentatonic specialized into selling high-end televisions. They also hold a wide variety of home entertainment products to complement the purchase of a television.
 
-One day, Pentatonic bought a rival company, Meridian, which used to have an important part of the market. Since the merger occurred, we would like to target our new clients with a marketing campaign highlighting our new state-of-the-art television. Currently, we have access to the data of thousand of customers.
+In the current market, Pentatonic is striving and just purchased a smaller company, Meridian, which used to have an important part of the market despite its size. Since the merger occurred, Pentatonic is looking to target their new clients form Meridian with a marketing campaign highlighting their new state-of-the-art television. As the lead data scientist for Pentatonic, we have access to the data of thousand of customers.
 
-The goal of the project is to determine which customers should we target with our new marketing campaign in order the increase our sales.
+The goal of the project is to determine which customers should we target with our new marketing campaign in order the increase the sales.
+
+## Exploratory Data Analysis
 
