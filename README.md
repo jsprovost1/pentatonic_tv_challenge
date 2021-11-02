@@ -37,4 +37,9 @@ In the current market, Pentatonic is striving and just purchased a smaller compa
 The goal of the project is to determine which customers should we target with our new marketing campaign in order the increase the sales.
 
 ## Exploratory Data Analysis
+The data set contained some missing values and erronous entries that were talen care of during the preprocessing phase. Furthermore, features like "Education", "City", and "Job_title" were initially encoded using numerical values. We made sure to replace those numerical values by the proper level for each variable.
 
+Distribution plots revealed a potential bimodal distribution for the age, which was further explored later on. Indeed, the data suggested that a small group of clients who did not purchase a television drove that peak around 28 years old.
+
+![alt text](http://url/to/img.png)
+![dist_plot_age](https://user-images.githubusercontent.com/24415049/139962243-dc2a8f8c-df73-4c2e-9e4e-f94be5bfd4a7.png)
