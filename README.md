@@ -1,5 +1,21 @@
 # Pentatonic Television: Predicting Future TV Buyers
 
+## Outline
+1.Data Exploration
+    1.1 The Data
+    1.2 Data Description & Preprocessing
+2.0 Some Data Visualization
+     2.1 Distribution & Boxplots Plots
+     2.2 Analysis For The Different Features
+         2.2.1 Professions
+         2.2.2 Cities
+         2.2.3 Age Group
+         2.2.4 Home Income
+         2.2.5 Mixed Features       
+3.0 Creating Train/Test Sets
+4.0 Extracting Feature Profiles From PCA Analysis
+
+
 ## Introduction
 
 Problem: A fictional electronic company called Pentatonic specialized into selling high-end televisions.
