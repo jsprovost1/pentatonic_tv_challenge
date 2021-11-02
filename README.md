@@ -5,7 +5,7 @@
     
    &nbsp;&nbsp;&nbsp;&nbsp;1.1 The Data
     
-   &nbsp;&nbsp;&nbsp;&nbsp;1.2 Data Description & Preprocessing
+   &nbsp;&nbsp;&nbsp;&nbsp;1.2 Data Description & Preprocessing<br/>
 
 2.0 Some Data Visualization<br/>
      
