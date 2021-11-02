@@ -58,16 +58,16 @@ We found a slight trend highlighting a greater percentage of retirees purchasing
 
 
 After performing a Principal Component Analysis, the result showed two main components supporting two different groups of clients.
-A first group of clients showed:
-    - High Household Income
-    - High Income
-    - High Transactional Volume
-    - Low Financing Volume
-    - Low Credit Card Volume.
+A first group of clients showed:<br/>
+    - High Household Income<br/>
+    - High Income<br/>
+    - High Transactional Volume<br/>
+    - Low Financing Volume<br/>
+    - Low Credit Card Volume.<br/>
     
-A second group of clients reported:
-    - High Income
-    - High Financing Volume
-    - Low Household Income
-    - Low Credit Card Volume.
+A second group of clients reported:<br/>
+    - High Income<br/>
+    - High Financing Volume<br/>
+    - Low Household Income<br/>
+    - Low Credit Card Volume.<br/>
     
