@@ -48,3 +48,6 @@ We have a highly imbalanced data set with respect to our target feature capturin
 
 ![target_feature](https://user-images.githubusercontent.com/24415049/139962785-60c875b3-d796-45a8-8013-c7918e07e131.png)
 
+Furthermore, no professions, or cities had an over/under-representation with respect to the target feature as the following figures highlight.
+
+![professions](https://user-images.githubusercontent.com/24415049/139963143-6e45ad58-e4f1-4e31-aed0-ebe43739ac12.png) ![cities](https://user-images.githubusercontent.com/24415049/139963148-e5e885b5-32a5-4bb7-9bea-a005fafaf6e7.png)
