@@ -8,7 +8,6 @@
    &nbsp;&nbsp;&nbsp;&nbsp;1.2 Data Description & Preprocessing<br/>
 
 2.0 Data Visualization<br/>
-     
      &nbsp;&nbsp;&nbsp;&nbsp;2.1 Distribution & Boxplots Plots
      
      &nbsp;&nbsp;&nbsp;&nbsp;2.2 Analysis For The Different Features
