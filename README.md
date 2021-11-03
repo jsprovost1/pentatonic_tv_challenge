@@ -72,3 +72,4 @@ A second group of clients reported:<br/>
     - Low Credit Card Volume.<br/>
     
 ## Modeling
+The goal was to predict which clients would purchase a new television in the future, so we could setup a marketing campaign to target the clients who were undecided. 
