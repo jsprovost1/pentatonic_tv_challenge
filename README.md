@@ -85,4 +85,4 @@ Three groups of clients were determined:<br/>
     
 <img width="311" alt="decision_boundary" src="https://user-images.githubusercontent.com/24415049/140001414-dcba46cc-f49f-4acb-8399-5cc4c165769e.png">
 
-The marketing campaign will target these clients first according to the budget allowed.
+It is important to understand that the marketing campaign is also subject to the amount of moeny allowed. In our case, we assume that we have access to a budget to reach all targeted clients. Furthermore, marketing also depends on the estimated margin from the sales related to the product. The sales should be greater than the cost of targeting a client. 
