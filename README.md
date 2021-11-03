@@ -73,11 +73,16 @@ A second group of clients reported:<br/>
     
 ## Modeling
 The goal was to predict which clients would purchase a new television in the future, so we could setup a marketing campaign to target the clients who were undecided.
-Three models were built and trained using: Logistic Regression, Random Forest, and Gradient Boosting. All three models were evaluated on recall minimizing the proportion of false positives. Then, the best model was fine tuned using gridsearch in order to maximize the choice of hyperparameters. 
-The Gradient Boosting model had the best recall with *only 26% of false positives* reported.
+Three models were built and trained using: Logistic Regression, Random Forest, and Gradient Boosting. All three models were evaluated on recall minimizing the proportion of false positives. Then, the best model was fine tuned using gridsearch in order to maximize the choice of hyperparameters.<br/>
+The Gradient Boosting model had the **best recall with only 26% of false positives** reported.
 
 
-The main goal of our approach was to identify which clients should be targeted by the new marketing campaign to maximize the conversion. Based on the probability of purchasing a television, the test clients were ranked based on accuracy. Three groups of clients were determined: clients for which we are fairly confident that they will purchase a television, clients for which we are fairly confident that thet will not purchase a new television, and clients that are just above and below the decision boundary.
-
-
+The main goal of our approach was to identify which clients should be targeted by the new marketing campaign to maximize the conversion. Based on the probability of purchasing a television, the test clients were ranked based on accuracy.<br/>
+Three groups of clients were determined: 
+    - Clients for which we are fairly confident that they will purchase a television<br/>
+    - Clients for which we are fairly confident that thet will not purchase a new television<br/>
+    - Clients who are just above and below the decision boundary.<br/>
+    
 <img width="311" alt="decision_boundary" src="https://user-images.githubusercontent.com/24415049/140001414-dcba46cc-f49f-4acb-8399-5cc4c165769e.png">
+
+The marketing campaign will target these clients first according to the budget allowed.
