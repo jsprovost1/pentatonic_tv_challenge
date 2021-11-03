@@ -80,3 +80,4 @@ The Gradient Boosting model had the best recall with only 26% of false positives
 The main goal of our approach was to identify which clients should be targeted by the new marketing campaign to maximize the conversion. Based on the probability of purchasing a television, the test clients were ranked based on accuracy. Three groups of clients were determined: clients for which we are fairly confident that they will purchase a television, clients for which we are fairly confident that thet will not purchase a new television, and clients that are just above and below the decision boundary.
 
 
+<img width="311" alt="decision_boundary" src="https://user-images.githubusercontent.com/24415049/140001414-dcba46cc-f49f-4acb-8399-5cc4c165769e.png">
